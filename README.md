@@ -1,16 +1,13 @@
-# C - Binary trees :deciduous_tree:
+# C - Binary trees
 
-![binary_trees](https://i.pinimg.com/originals/c6/bb/08/c6bb08543696246a36c1d33438919afb.gif)
-
-This was a partner project in which we learned about the details, advantages,
+This was a group project in which we learnt about the details, advantages,
 and disadvantages of using trees as data structures. We learned about how to
 qualify trees as well as how to traverse them. Throughout the project, we
 implemented binary, binary search, AVL, and Max Binary Heap trees.
 
 ## Tests :heavy_check_mark:
 
-* [tests](./tests): Folder of test files for all tasks. Provided by Holberton
-School.
+* [tests](./tests): Folder of test files for all tasks. Provided by ALX.
 
 ## Helper File :raised_hands:
 
@@ -259,9 +256,12 @@ Function Prototypes
     * Extracting the root node.
     * Searching for a node in a binary heap of size `n`.
 
-## Authors :black_nib:
-
-- [Esteban De La Hoz](https://www.linkedin.com/in/esteban-de-la-hoz-romero-b6270017b/) | [Twitter](https://twitter.com/Esteban18911) | [GitHub](https://github.com/Esteban18911)
-
-- [Wilder De Jesus Rincon Iriarte](https://www.linkedin.com/in/wildsrincon/) | [Twitter](https://twitter.com/wildsrincon) | [GitHub](https://github.com/wildcox80)
-
+## Authors
+<details>
+    <summary>Oladele Adewunmi</summary>
+    <ul>
+    <li><a href="https://www.github.com/Rachamv">Github</a></li>
+    <li><a href="https://www.twitter.com/Racham_V">Twitter</a></li>
+    <li><a href="mailto:rkutalian@gmail.com">e-mail</a></li>
+    </ul>
+</details>
